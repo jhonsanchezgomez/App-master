@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: App-repository
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jhon.sanchez
+Implementation-Vendor-Id: co.samtel.repository
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/App-master/App-repository
+Created-By: Maven Integration for Eclipse
+
